@@ -35,7 +35,7 @@ I'm am a student now at Chittagong University of Engineering and Technology. Rig
 
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=himadree-chaudhury&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)   
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=himadree-chaudhury&layout=compact&theme=merko&border_radius=20px)](https://github.com/anuraghazra/github-readme-stats)   
 
 <br />
 <br />
@@ -47,7 +47,7 @@ I'm am a student now at Chittagong University of Engineering and Technology. Rig
 <br />
 <br />
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=himadree-chaudhury&show_icons=true&theme=merko) ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=himadree-chaudhury&theme=merko) 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=himadree-chaudhury&show_icons=true&theme=merko&border_radius=20px) ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=himadree-chaudhury&theme=merko&border_radius=20px) 
 
 
  
