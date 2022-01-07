@@ -87,22 +87,23 @@ I'm am a student now at Chittagong University of Engineering and Technology. Rig
 <br />
 <br />
 
-## ❤ Views and Followers
+## ❤ Views and Followers   
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=himadree-chaudhury">
 </a>
 <a href="https://github.com/himadree-chaudhury?tab=followers"><img src="https://img.shields.io/github/followers/himadree-chaudhury?label=Followers&style=social" alt="GitHub Badge"></a>
 <br />
-
+  <img src="https://img.shields.io/badge/himadree--chaudhury-Beginer%20Web%20Developer-brightgreen">
     
 
 
 <a href = "https://github.com/himadree-chaudhury//"><img align="right" src="https://img.icons8.com/nolan/64/github.png"></a>
 <a href="https://stackoverflow.com/users/17806335/himadree-chaudhury"><img align="right" src="https://img.icons8.com/stickers/60/000000/stackoverflow.png"></a>
          
-<br><br>
-<img align="right" src="https://img.shields.io/badge/himadree--chaudhury-Beginer%20Web%20Developer-brightgreen">
+<br />
+<br />
+<br />
 
- #### Top Repositories
+ ## Top Repositories
 
 
