@@ -1,4 +1,4 @@
-![I am a Beginner Web Developer ](https://i.ibb.co/nfHBWMV/IMG-2269.jpg)
+![I am a Beginner Web Developer ](https://github.com/himadree-chaudhury/himadree-chaudhury/blob/main/IMG_2269.JPG)
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Himadree</h1>
 <h3 align="center">I'm a Beginer Web Developer from Bangladesh.</h3>
