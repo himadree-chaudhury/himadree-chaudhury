@@ -49,8 +49,11 @@ I'm am a student now at Chittagong University of Engineering and Technology. Rig
 </p>
 
 <br />
+<p align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=himadree-chaudhury&layout=compact&theme=merko&border_radius=20px)](https://github.com/anuraghazra/github-readme-stats)   
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=himadree-chaudhury&layout=compact&theme=merko&border_radius=20px&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)   
+    
+</p>    
 
 <br />
 <br />
