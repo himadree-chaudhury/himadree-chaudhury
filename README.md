@@ -51,12 +51,6 @@ I'm am a student now at Chittagong University of Engineering and Technology. Rig
  #### Top Repositories
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=merko" />
-</a>
-<a href="https://github.com/himadree-chaudhury/himadree-chaudhury.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=himadree-chaudhury&repo=himadree-chaudhury.github.io&theme=merko" />
-</a>
 
 <br />
 <br />
