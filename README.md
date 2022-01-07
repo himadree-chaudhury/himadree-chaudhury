@@ -9,7 +9,8 @@
 
 I'm am a student now at Chittagong University of Engineering and Technology. Right now I'm in BSC course in Mechanical Engineering. But I do like programming and software development and staffs like that.
 
-
+<br />
+<br />
 
 
 ## 👨‍💻 About Me:
@@ -28,6 +29,8 @@ I'm am a student now at Chittagong University of Engineering and Technology. Rig
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+
+<br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=himadree-chaudhury&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)   
 
