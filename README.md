@@ -46,11 +46,11 @@ I'm am a student now at Chittagong University of Engineering and Technology. Rig
  #### Top Repositories
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
+<a href="https://github.com/himadree-chaudhury/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=himadree-chaudhury&repo=github-readme-stats&theme=marko" />
 </a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
+<a href="https://github.com/himadree-chaudhury/himadree-chaudhury.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=himadree-chaudhury&repo=anuraghazra.github.io&theme=marko" />
 </a>
 
 <br />
