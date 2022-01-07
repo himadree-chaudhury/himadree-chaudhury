@@ -10,7 +10,7 @@
 
 I'm am a student now at Chittagong University of Engineering and Technology. Right now I'm in BSC course in Mechanical Engineering. But I do like programming and software development and staffs like that.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=himadree-chaudhury&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 ## 👨‍💻 Skills & Experiance:
