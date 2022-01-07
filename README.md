@@ -74,7 +74,7 @@ I'm am a student now at Chittagong University of Engineering and Technology. Rig
 
 ## ☕ Connect with me!
 
-<p align="center">
+<p align="left">
 
 <a href = "https://www.linkedin.com/in/himadree-chaudhury/"><img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-linkedin-social-media-justicon-lineal-color-justicon.png"></a>
 <a href="https://www.facebook.com/https://www.facebook.com/himadree.chaudhury.2003"><img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-facebook-social-media-justicon-lineal-color-justicon.png" alt="Facebook"></a>
@@ -83,6 +83,9 @@ I'm am a student now at Chittagong University of Engineering and Technology. Rig
 <a href=""><img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-reddit-social-media-justicon-lineal-color-justicon.png"></a>
 <a href=""><img src="https://img.icons8.com/external-vitaliy-gorbachev-lineal-color-vitaly-gorbachev/64/000000/external-website-sales-vitaliy-gorbachev-lineal-color-vitaly-gorbachev.png"></a>
 </p>
+<br />
+<br />
+<br />
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
@@ -90,14 +93,12 @@ I'm am a student now at Chittagong University of Engineering and Technology. Rig
 </a>
 <a href="https://github.com/himadree-chaudhury?tab=followers"><img src="https://img.shields.io/github/followers/himadree-chaudhury?label=Followers&style=social" alt="GitHub Badge"></a>
 <br />
-<br />
-<br />
-<br />
+
     
 <p align="center">
 
 <a href = "https://github.com/himadree-chaudhury//"><img src="https://img.icons8.com/nolan/64/github.png"></a>
-<a href=""><img src="https://img.icons8.com/stickers/60/000000/stackoverflow.png"></a>
+<a href="https://stackoverflow.com/users/17806335/himadree-chaudhury"><img src="https://img.icons8.com/stickers/60/000000/stackoverflow.png"></a>
 </p>          
 
  #### Top Repositories
