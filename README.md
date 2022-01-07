@@ -10,6 +10,10 @@
 I'm am a student now at Chittagong University of Engineering and Technology. Right now I'm in BSC course in Mechanical Engineering. But I do like programming and software development and staffs like that.
 
 <br />
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=himadree-chaudhury&label=Profile%20views&color=129e00&style=plastic" alt="himadree-chaudhury" /> 
+
+<br />
 <br />
 
 
@@ -55,7 +59,5 @@ I'm am a student now at Chittagong University of Engineering and Technology. Rig
 <br />
 <br />
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=himadree-chaudhure&label=Profile%20views&color=129e00&style=plastic" alt="khushboogoel01" /> 
 
 
