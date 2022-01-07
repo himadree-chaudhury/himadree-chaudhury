@@ -20,6 +20,9 @@ I'm am a student now at Chittagong University of Engineering and Technology. Rig
 - 👯 I’m looking to collaborate on Google 
 - 💬 Ask me about Web Development & Requirements Analysis 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=himadree-chaudhury&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)   
+
+
 
 ## ☕ Connect with me!
 
@@ -27,7 +30,6 @@ I'm am a student now at Chittagong University of Engineering and Technology. Rig
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=himadree-chaudhury&show_icons=true&theme=merko)    ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=himadree-chaudhury&theme=merko) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=himadree-chaudhury&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)   
 
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=himadree-chaudhury)  
