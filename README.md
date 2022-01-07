@@ -1,3 +1,5 @@
+<img align="right" src="https://img.shields.io/badge/himadree--chaudhury-Beginer%20Web%20Developer-brightgreen">
+
 ![I am a Beginner Web Developer ](https://i.ibb.co/nfHBWMV/IMG-2269.jpg)
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Himadree</h1>
@@ -72,7 +74,15 @@ I'm am a student now at Chittagong University of Engineering and Technology. Rig
 
 ## ☕ Connect with me!
 
-[<img src='https://camo.githubusercontent.com/bd2bd127c104ba5c98bb12c70801b075aee1f040009089510f69554300e7ff41/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d4630353033323f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465' alt='github' height='40'>](https://github.com/himadree-chaudhury)  [<img src='https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/himadree-chaudhury//)  [<img src='https://camo.githubusercontent.com/2d1ffa69dd491ebeca01b2098cf8233dd09950ff5895abccd5b455ca442abc59/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46616365626f6f6b2d3138373746323f7374796c653d666f722d7468652d6261646765266c6f676f3d66616365626f6f6b266c6f676f436f6c6f723d7768697465' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/himadree.chaudhury.2003)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/17806335/himadree-chaudhury)  
+<p align="center">
+
+<a href = "https://www.linkedin.com/in/himadree-chaudhury/"><img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-linkedin-social-media-justicon-lineal-color-justicon.png"></a>
+<a href="https://www.facebook.com/https://www.facebook.com/himadree.chaudhury.2003"><img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-facebook-social-media-justicon-lineal-color-justicon.png" alt="Facebook"></a>
+<a href = ""><img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-twitter-social-media-justicon-lineal-color-justicon.png">
+<a href=""><img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-instagram-social-media-justicon-lineal-color-justicon.png"></a>
+<a href=""><img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-reddit-social-media-justicon-lineal-color-justicon.png"></a>
+<a href=""><img src="https://img.icons8.com/external-vitaliy-gorbachev-lineal-color-vitaly-gorbachev/64/000000/external-website-sales-vitaliy-gorbachev-lineal-color-vitaly-gorbachev.png"></a>
+</p>
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
@@ -81,8 +91,15 @@ I'm am a student now at Chittagong University of Engineering and Technology. Rig
 <a href="https://github.com/himadree-chaudhury?tab=followers"><img src="https://img.shields.io/github/followers/himadree-chaudhury?label=Followers&style=social" alt="GitHub Badge"></a>
 <br />
 <br />
+<br />
+<br />
+    
+<p align="center">
 
+<a href = "https://github.com/himadree-chaudhury//"><img src="https://img.icons8.com/nolan/64/github.png"></a>
+<a href=""><img src="https://img.icons8.com/stickers/60/000000/stackoverflow.png"></a>
+</p>          
 
  #### Top Repositories
 
-        
+
