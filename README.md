@@ -33,4 +33,4 @@ I'm am a student now at Chittagong University of Engineering and Technology. Rig
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=himadree-chaudhury)  
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
