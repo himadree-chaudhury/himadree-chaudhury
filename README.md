@@ -47,7 +47,7 @@ I'm am a student now at Chittagong University of Engineering and Technology. Rig
 <br />
 <br />
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=himadree-chaudhury&show_icons=true&theme=merko&border_radius=20px) ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=himadree-chaudhury&theme=merko&border_radius=20px) 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=himadree-chaudhury&show_icons=true&theme=merko) ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=himadree-chaudhury&theme=merko) 
 
 
  
