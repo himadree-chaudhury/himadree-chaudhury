@@ -82,4 +82,13 @@ I'm am a student now at Chittagong University of Engineering and Technology. Rig
 
 
  #### Top Repositories
-
+<p align="center">
+    <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=himadree-chaudhury&theme=merko"/>
+    </a></p>
+    <p align="center">
+     <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=himadree-chaudhury&show_icons=true&count_private=true&theme=merko" /></a></p>
+        <p align="center">
+    <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himadree-chaudhury&langs_count=8&count_private=true&layout=compact&theme=merko" /></a>
+    
+</p>
