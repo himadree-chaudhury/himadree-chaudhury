@@ -3,6 +3,11 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Himadree</h1>
 <h3 align="center">I'm a Beginer Web Developer from Bangladesh.</h3>
 <br>
+<p align="center">
+    <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
+        <img alt="Himadree Chaudhury's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=himadree-chaudhury&theme=merko&border_radius=20px&hide_border=true"/>
+    </a></p>
+    <br>
 <p>
 📖 Learning Web Development <br> 
 ♥  Love to write code <br> 
@@ -28,7 +33,7 @@ I'm am a student now at Chittagong University of Engineering and Technology. Rig
 
 ## 🚀 Languages and Tools: 
 
-<p align="left"> 
+<p align="center"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> </a> 
@@ -50,20 +55,17 @@ I'm am a student now at Chittagong University of Engineering and Technology. Rig
 
 <br />
 <p align="center">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=himadree-chaudhury&layout=compact&theme=merko&border_radius=20px&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)   
-    
-</p>    
+    <img alt="Himadree Chaudhury's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himadree-chaudhury&langs_count=8&count_private=true&layout=compact&theme=merko&border_radius=20px&hide_border=true" /></a>
+        </p>  
 
 <br />
 <br />
 
  ## 📊 My Github Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=himadree-chaudhury&show_icons=true&theme=merko&hide_border=true) ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=himadree-chaudhury&theme=merko&hide_border=true) 
+ <p align="center">
+    <img alt="Himadree Chaudhury's Github Stats" src="https://github-readme-stats.vercel.app/api?username=himadree-chaudhury&show_icons=true&count_private=true&theme=merko&border_radius=20px&hide_border=true" /></a></p>
 
-<br>
-<a href="https://github.com/himadree-chaudhury/github-readme-activity-graph"><img alt="Himadree Chaudhury's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=himadree-chaudhury&bg_color=0a0f0b&color=abd200&line=68b587&point=b7d364&hide_border=true" /></a>
-<br>
+    
 
 <br />
 <br />
@@ -82,13 +84,5 @@ I'm am a student now at Chittagong University of Engineering and Technology. Rig
 
 
  #### Top Repositories
-<p align="center">
-    <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
-        <img alt="Himadree Chaudhury's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=himadree-chaudhury&theme=merko"/>
-    </a></p>
-    <p align="center">
-    <img alt="Himadree Chaudhury's Github Stats" src="https://github-readme-stats.vercel.app/api?username=himadree-chaudhury&show_icons=true&count_private=true&theme=merko" /></a></p>
-        <p align="center">
-    <img alt="Himadree Chaudhury's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himadree-chaudhury&langs_count=8&count_private=true&layout=compact&theme=merko" /></a>
-    
-</p>
+
+        
