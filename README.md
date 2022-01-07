@@ -69,7 +69,7 @@ I'm am a student now at Chittagong University of Engineering and Technology. Rig
 <br />
 <br />
 
-## ❤ Views and Followers   
+## 💖 Views and Followers   
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=himadree-chaudhury">
 </a>
