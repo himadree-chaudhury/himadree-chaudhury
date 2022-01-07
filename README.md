@@ -18,6 +18,8 @@ I'm am a student now at Chittagong University of Engineering and Technology. Rig
 - 🏫 I’m currently learning Javascript 
 - 🔎 I’m looking to collaborate on Google 
 - ❓  Ask me about Web Development & Requirements Analysis 
+- <br />
+<br />
 
 **Languages and Tools:**  
 
@@ -29,14 +31,17 @@ I'm am a student now at Chittagong University of Engineering and Technology. Rig
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=himadree-chaudhury&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)   
 
-
+<br />
+<br />
 
 ## ☕ Connect with me!
 
 [<img src='https://camo.githubusercontent.com/bd2bd127c104ba5c98bb12c70801b075aee1f040009089510f69554300e7ff41/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d4630353033323f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465' alt='github' height='40'>](https://github.com/himadree-chaudhury)  [<img src='https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/himadree-chaudhury//)  [<img src='https://camo.githubusercontent.com/2d1ffa69dd491ebeca01b2098cf8233dd09950ff5895abccd5b455ca442abc59/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46616365626f6f6b2d3138373746323f7374796c653d666f722d7468652d6261646765266c6f676f3d66616365626f6f6b266c6f676f436f6c6f723d7768697465' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/himadree.chaudhury.2003)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/17806335/himadree-chaudhury)  
 
+<br />
+<br />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=himadree-chaudhury&show_icons=true&theme=merko)    ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=himadree-chaudhury&theme=merko) 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=himadree-chaudhury&show_icons=true&theme=merko)    ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=himadree-chaudhury&theme=merko) 
 
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=himadree-chaudhury&theme=merko)  
@@ -46,20 +51,13 @@ I'm am a student now at Chittagong University of Engineering and Technology. Rig
  #### Top Repositories
 
 
-<a href="https://github.com/himadree-chaudhury/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=himadree-chaudhury&repo=github-readme-stats&theme=marko" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=merko" />
 </a>
 <a href="https://github.com/himadree-chaudhury/himadree-chaudhury.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=himadree-chaudhury&repo=anuraghazra.github.io&theme=marko" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=himadree-chaudhury&repo=himadree-chaudhury.github.io&theme=merko" />
 </a>
 
 <br />
 <br />
-
-<a href="https://twitter.com/anuraghazru">
-  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-<a href="https://codesandbox.io/u/anuraghazra">
-  <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
-</a>
 
