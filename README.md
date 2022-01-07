@@ -1,10 +1,9 @@
 ![I am a Beginner Web Developer ](https://i.ibb.co/nfHBWMV/IMG-2269.jpg)
 
 ## Hi, I'm Himadree Chaudhury 👋
-#### I am a Beginner Web Developer 
 
 <p>
-👑 I am Web Developer <br> 
+👑 I am Beginer Web Developer <br> 
 🖊️ Love to write code <br> 
 🎤 Like to share my knowledge </p> 
 
@@ -15,10 +14,10 @@ I'm am a student now at Chittagong University of Engineering and Technology. Rig
 
 ## 👨‍💻 Skills & Experiance:
 
-- 🔭 I’m currently working on Chittagong University of Engineering and Technology As a Student 
-- 🌱 I’m currently learning Javascript 
-- 👯 I’m looking to collaborate on Google 
-- 💬 Ask me about Web Development & Requirements Analysis 
+- 👨‍🎓 I’m currently working on Chittagong University of Engineering and Technology As a Student 
+- 🏫 I’m currently learning Javascript 
+- 🔎 I’m looking to collaborate on Google 
+- ❓  Ask me about Web Development & Requirements Analysis 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=himadree-chaudhury&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)   
 
