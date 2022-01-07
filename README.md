@@ -1,4 +1,4 @@
-<img align="right" src="https://img.shields.io/badge/himadree--chaudhury-Beginer%20Web%20Developer-brightgreen">
+
 
 ![I am a Beginner Web Developer ](https://i.ibb.co/nfHBWMV/IMG-2269.jpg)
 
@@ -95,11 +95,13 @@ I'm am a student now at Chittagong University of Engineering and Technology. Rig
 <br />
 
     
-<p align="center">
 
-<a href = "https://github.com/himadree-chaudhury//"><img src="https://img.icons8.com/nolan/64/github.png"></a>
-<a href="https://stackoverflow.com/users/17806335/himadree-chaudhury"><img src="https://img.icons8.com/stickers/60/000000/stackoverflow.png"></a>
-</p>          
+
+<a href = "https://github.com/himadree-chaudhury//"><img align="right" src="https://img.icons8.com/nolan/64/github.png"></a>
+<a href="https://stackoverflow.com/users/17806335/himadree-chaudhury"><img align="right" src="https://img.icons8.com/stickers/60/000000/stackoverflow.png"></a>
+         
+<br><br>
+<img align="right" src="https://img.shields.io/badge/himadree--chaudhury-Beginer%20Web%20Developer-brightgreen">
 
  #### Top Repositories
 
