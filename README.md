@@ -27,11 +27,11 @@ I'm am a student now at Chittagong University of Engineering and Technology. Rig
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=himadree-chaudhury)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=himadree-chaudhury&show_icons=true)  
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=himadree-chaudhury&show_icons=true&theme=merko)
+
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=himadree-chaudhury)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=himadree-chaudhury)  
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=himadree-chaudhury&show_icons=true&theme=merko)
