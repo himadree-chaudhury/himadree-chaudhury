@@ -1,7 +1,7 @@
 ![I am a Beginner Web Developer ](https://github.com/himadree-chaudhury/himadree-chaudhury/blob/main/IMG_2269.JPG)
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Himadree</h1>
-<h3 align="center">I'm a Beginer Web Developer from Bangladesh.</h3>
+<h3 align="center">I'm a Beginner Web Developer from Bangladesh.</h3>
 <br>
 <p align="center">
     <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
@@ -75,7 +75,7 @@ I'm am a student now at Chittagong University of Engineering and Technology. Rig
 </a>
 <a href="https://github.com/himadree-chaudhury?tab=followers"><img src="https://img.shields.io/github/followers/himadree-chaudhury?label=Followers&style=social" alt="GitHub Badge"></a>
 <br />
-  <img src="https://img.shields.io/badge/himadree--chaudhury-Beginer%20Web%20Developer-brightgreen">
+  <img src="https://img.shields.io/badge/himadree--chaudhury-Beginner%20Web%20Developer-brightgreen">
     
 
 
