@@ -24,9 +24,9 @@ I'm am a student now at Chittagong University of Engineering and Technology. Rig
 
 ## 🙋‍♂️ About Me
 
-- 👨‍🎓 I’m currently studying on Chittagong University of Engineering and Technology 
+- 👨‍🎓 I’m currently studying at Chittagong University of Engineering and Technology 
 - 🏫 I’m currently learning Javascript 
-- 🔎 I’m looking to work on Google 
+- 🔎 I’m willing to work on Google 
 - ❓  Ask me about Web Development & Requirements Analysis <br />
 <br />
 
