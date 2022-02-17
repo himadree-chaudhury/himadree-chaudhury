@@ -4,9 +4,8 @@
 <h3 align="center">I'm a Beginner Web Developer from Bangladesh.</h3>
 <br>
 <p align="center">
-    <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
         <img alt="Himadree Chaudhury's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=himadree-chaudhury&theme=merko&border_radius=20px&hide_border=true"/>
-    </a></p>
+ </p>
     <br>
 <p>
 📖 Learning Web Development <br> 
