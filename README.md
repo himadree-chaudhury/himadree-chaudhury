@@ -51,7 +51,7 @@ I'm am a student now at Chittagong University of Engineering and Technology. Rig
 <br>
 <!-- <a href=""><img alt="Himadree Chaudhury's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=himadree-chaudhury&bg_color=0a0f0b&color=abd200&line=b7d364&point=68b587&hide_border=true" /></a> -->
 
-[![Himadree's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=himadree-chaudhury&y&bg_color=0a0f0b&color=abd200&line=b7d364&point=68b587&hide_border=true)]
+![Himadree's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=himadree-chaudhury&y&bg_color=0a0f0b&color=abd200&line=b7d364&point=68b587&hide_border=true)
 
 <br />
 <br />
