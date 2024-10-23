@@ -46,7 +46,7 @@ I'm am a student now at Chittagong University of Engineering and Technology. Rig
 
  ## 📊 My Github Stats
  <p align="center">
-    <img alt="Himadree Chaudhury's Github Stats" src="https://github-readme-stats.vercel.app/api?username=himadree-chaudhury&show_icons=true&count_private=true&theme=merko&border_radius=20px&hide_border=true" /></a></p>
+<!--     <img alt="Himadree Chaudhury's Github Stats" src="https://github-readme-stats.vercel.app/api?username=himadree-chaudhury&show_icons=true&count_private=true&theme=merko&border_radius=20px&hide_border=true" /></a></p> -->
 
 <br>
 <!-- <a href=""><img alt="Himadree Chaudhury's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=himadree-chaudhury&bg_color=0a0f0b&color=abd200&line=b7d364&point=68b587&hide_border=true" /></a> -->
