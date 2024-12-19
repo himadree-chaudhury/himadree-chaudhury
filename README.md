@@ -3,10 +3,12 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Himadree</h1>
 <h3 align="center">I'm a Beginner Web Developer from Bangladesh.</h3>
 <br>
+<!--
 <p align="center">
         <img alt="Himadree Chaudhury's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=himadree-chaudhury&theme=merko&border_radius=20px&hide_border=true"/>
  </p>
     <br>
+    -->
 <p>
 📖 Learning Web Development <br> 
 ♥  Love to write code <br> 
