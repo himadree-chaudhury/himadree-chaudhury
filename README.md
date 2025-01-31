@@ -1,7 +1,7 @@
 ![I am a Beginner Web Developer ](https://github.com/himadree-chaudhury/himadree-chaudhury/blob/main/IMG_2269.JPG)
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Himadree</h1>
-<h3 align="center">I'm a Beginner Web Developer from Bangladesh.</h3>
+<h3 align="center">I'm a Web Developer from Bangladesh.</h3>
 <br>
 <!--
 <p align="center">
@@ -14,7 +14,7 @@
 ♥  Love to write code <br> 
 👍 Like to share my knowledge </p> 
 
-I'm am a student now at Chittagong University of Engineering and Technology. Right now I'm in BSC course in Mechanical Engineering. But I do like programming and software development and staffs like that.
+I'm am a student now at Chittagong University of Engineering and Technology. Right now I'm pursuing B.Sc. course in Mechanical Engineering. But I do like programming and software development and staffs like that.
 
 <br />
 
@@ -27,7 +27,7 @@ I'm am a student now at Chittagong University of Engineering and Technology. Rig
 ## 🙋‍♂️ About Me
 
 - 👨‍🎓 I’m currently studying at Chittagong University of Engineering and Technology 
-- 🏫 I’m currently learning Javascript 
+- 🏫 I’m currently learning 
 - 🔎 I’m willing to work on Google 
 - ❓  Ask me about Web Development & Requirements Analysis <br />
 <br />
