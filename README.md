@@ -4,18 +4,20 @@ Welcome to my **CodeLog**, a field notebook chronicling my journey as an enginee
 
 
 
-## 🧪 The Art of Experimentation
-I thrive on the unknown, treating every project like a hypothesis to test. From hacking together prototypes to diving into new tech stacks, my repos are my lab.  
-*What I Explore*:  
-*Why It Matters*:   
-*Peek Inside*: 
+## 🧬 My DNA
+### 🗣️ Mother Tongue : <img style="width: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+### 🧑‍🏫 Academic Language : <img style="width: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+### 🧓 Ancient Root Language	: <img style="width: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" /> 
+### 🏛️ Old School Poetry : <img style="width: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+### 🧘 Meditation Language : <img style="width: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+### 🚀 Business Language : <img style="width: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />
 
 
 
-## 🏆 Wins That Define Me
-Successes are milestones, not destinations. Whether it’s shipping a feature, optimizing a slow query, or open-sourcing a tool, my wins reflect persistence and creativity.  
-*Signature Moment*: 
-*What I Learned*: 
+## ⚙️ My Arsenal
+ 🗡️ Weapons | 🎻 Instruments | 🔒 Armor | 🧠 Allies | 🛠️ Crafting | ⛩️ Rituals | 🏠 Barrack |
+|-----------|----------------|-----------|----------|-----------|----------------|-----------|
+
 
 
 
